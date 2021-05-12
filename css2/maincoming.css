@@ -1,0 +1,114 @@
+/**********************************
+GENERAL
+***********************************/
+
+body {
+font-family: 'Crimson Text', serif;
+}
+
+#wrapper {
+  max-width: 260px;
+  margin: 0 auto;
+  padding: 0 5%;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+
+
+
+
+h1 {
+  font-size: 1em;
+  font-weight: 400;
+  color: #6E6E6E;
+}
+
+
+
+
+#gallery .redes {
+  border-top: solid;
+  border-width: 1px;
+  color: #787878;
+  font-size: 0.8em;
+  padding-top:15px;
+  width: 260px;
+}
+
+
+
+
+
+/**********************************
+PAGE: PORTFOLIO
+***********************************/
+
+#gallery {
+  margin-top: 50px;
+  padding: 0;
+  list-style: none;
+}
+
+#gallery li {
+  float: left;
+  margin: 2.5%;
+  color: #6E6E6E;
+}
+
+#gallery li a p {
+  margin: 0;
+  padding: 5%;
+  font-size: 0.75em;
+  color: #bdc3c7
+}
+
+.hola {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 700;
+  font-size: 3em;
+  color:#FF7F4D;
+  margin:0;
+}
+
+/**********************************
+COLORS
+***********************************/
+
+/* site body */
+body {
+  background-color: #fff;
+  color: #999;
+}
+
+
+
+/* links */
+a {
+  color: #787878;
+  margin-right: 10px;
+}
+
+
+
+/* selected nav link */
+a:hover {
+  color: #4A4A4A;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
